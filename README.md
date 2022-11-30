@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=JohnWilliamsNull)
+ [![Deshun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnWilliamsNull)](https://github.com/ideshun)
 <!--
 **JohnWilliamsNull/JohnWilliamsNull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
